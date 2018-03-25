@@ -1,0 +1,6 @@
+*.pyc
+changelog.sh
+CHANGELOG
+*.data
+docs/
+__pycache__/
